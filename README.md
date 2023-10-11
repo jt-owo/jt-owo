@@ -11,4 +11,4 @@
 - Basic assembly knowledge
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=jt-owo&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dark" alt="github stats">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jt-owo&theme=dark&hide_border=false" alt="github stats">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jt-owo&theme=dark&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&layout=compact" alt="github stats">
