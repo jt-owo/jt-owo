@@ -2,10 +2,12 @@
 <h3 align="left"> Language & Skills </h3>
 
 - JavaScript / TypeScript
-- HTML / CSS
 - C / C++
 - C#
-- Electron, React
+- Lua
+- HTML / CSS / SCSS
+- React, Redux
+- Electron
 - Basic assembly knowledge
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=jt-owo&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=dark" alt="github stats">
