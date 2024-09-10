@@ -1,5 +1,7 @@
-# hello im johnny
+# hello
 🔭 I’m currently working on [tune.](https://github.com/jt-owo/tune) and [ALICE](https://github.com/jt-owo/ALICE)
+
+[My Website](https://jt-owo.github.io/)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jt-owo&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
