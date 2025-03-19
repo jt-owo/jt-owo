@@ -17,7 +17,7 @@
 
 ## T7 Patch (Black Ops 3 Security Patch)
 
-(https://github.com/shiversoftdev/t7patch)[t7patch] by shiversoftdev
+[https://github.com/shiversoftdev/t7patch](t7patch) by shiversoftdev
 
 ## KF2 Field of View
 
