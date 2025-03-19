@@ -17,12 +17,11 @@
 
 ## T7 Patch (Black Ops 3 Security Patch)
 
-[https://github.com/shiversoftdev/t7patch](t7patch) by shiversoftdev
+(t7patch)[https://github.com/shiversoftdev/t7patch] by shiversoftdev
 
 ## KF2 Field of View
 
-[!IMPORTANT]
-You can adjust the Field of View normally using the in-game slider in options, but you can increase it even further.
+**Important:** You can adjust the Field of View normally using the in-game slider in options, but you can increase it even further.
 
 To increase the FoV beyond the maximum, navigate to `Documents\My Games\KillingFloor2\KFGame\Config` and open KFEngine.ini with a text editor of your choice.
 
